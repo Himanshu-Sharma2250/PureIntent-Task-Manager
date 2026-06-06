@@ -35,15 +35,14 @@ task-management/
 │   │   └── validations/    # Zod/Schema validation
 │   └── .env                # Server configuration
 ├── frontend/               # Vite + React Client
-│   ├── src/
-│   │   ├── components/     # UI Components (ModeToggle, TaskForm)
-│   │   ├── hooks/          # Custom hooks (useAuth, useTask)
-│   │   ├── lib/            # Shared utilities (axios, queryClient)
-│   │   ├── routes/         # TanStack Router page definitions
-│   │   └── index.css       # Tailwind 4 global styles
-│   └── public/             # Static assets and screenshots
-├── DESIGN.md               # Visual identity and design system
-└── PRODUCT.md              # Product purpose and brand personality
+    ├── src/
+    │   ├── components/     # UI Components (ModeToggle, TaskForm)
+    │   ├── hooks/          # Custom hooks (useAuth, useTask)
+    │   ├── lib/            # Shared utilities (axios, queryClient)
+    │   ├── routes/         # TanStack Router page definitions
+    │   └── index.css       # Tailwind 4 global styles
+    └── public/             # Static assets and screenshots
+
 ```
 
 ## Features
