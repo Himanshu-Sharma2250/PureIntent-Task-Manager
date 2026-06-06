@@ -3,6 +3,7 @@
 A focused, editorial-grade task management experience designed for individuals who value clarity, typography, and a deliberate pace in their productivity tools.
 
 ![Dashboard Preview](frontend/public/dashboard-dark.png)
+Live Link : https://pureintent.netlify.app
 
 ## Overview
 
